@@ -1,4 +1,3 @@
-Sure! Here's the same recruiter-friendly content formatted exactly for copy-pasting into your `README.md` file:
 
 ```markdown
 # SDI Claim Analyzer
