@@ -1,0 +1,49 @@
+body {
+    font-family: sans-serif;
+    background: #f7f7f7;
+    margin: 0;
+    padding: 20px;
+  }
+  
+  .app-container {
+    max-width: 800px;
+    margin: auto;
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+  }
+  
+  .upload-form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .upload-form input[type="text"],
+  .upload-form input[type="file"] {
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .upload-form button {
+    padding: 10px;
+    background: #007bff;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .upload-form button:hover {
+    background: #0056b3;
+  }
+  
+  .result-container {
+    background: #e9ffe9;
+    padding: 15px;
+    border-left: 5px solid green;
+  }
+  
